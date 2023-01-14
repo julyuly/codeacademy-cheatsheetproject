@@ -1,0 +1,91 @@
+body {
+    border: none;
+    text-align: center;
+    background-image: url(./IMG_6178\ copy.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+
+.top {
+    border:none;
+    display:inline-block;
+    padding:20px;
+    margin-right: 20px;
+    margin-right: 20px;
+    margin-top:100px;
+    background-color: transparent;
+ 
+
+}
+
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+
+}
+.top th {
+    border:none;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:18px;
+    font-style: italic;
+    border-style: groove;
+
+}
+
+.top td {
+    border:none;
+    background-color: white;
+    font-size:14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: groove;
+    
+}
+
+
+.bottom {
+    border:none;
+    padding:0px;
+    margin-right: 490px;
+    margin-bottom:50px;
+    background-color: transparent;
+    margin-top:0px;
+    
+    
+   
+
+}
+
+.bottom h1 {
+  margin-left: 490px;
+    text-align: center;
+}
+
+.bottom table {
+    margin-left:auto;
+    width:470px;
+    text-align:center;
+    
+}
+
+.bottom th {
+    border:none;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:18px;
+    font-style: italic;
+    border-style: groove;
+}
+
+.bottom td {
+    border:none;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:14px;
+    border-style: groove;
+    
+}
